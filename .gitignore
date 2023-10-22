@@ -1,0 +1,17 @@
+
+*.xml
+*.pyc
+*.iml
+*.pth
+*.virtualenv
+*.typed
+*.tmpl
+*.bat
+*.fish
+*.nu
+
+*.pem
+*.txt
+/Projects/Lib/*
+/Projects/scripts/*
+/Projects/pyvenv.cfg
