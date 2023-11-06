@@ -26,7 +26,7 @@ def get_all_components():
 
         if (component.get_class().get_name()) == 'RectLightComponent':
             rect_lights.append(component)
-    return 1
+
 
 
 get_all_components()
